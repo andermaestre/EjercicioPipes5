@@ -1,0 +1,6 @@
+C:\Users\Antxon\source\repos\EjerciciosPipes5\EjerciciosPipes5\bin\Debug\EjerciciosPipes5.exe.config
+C:\Users\Antxon\source\repos\EjerciciosPipes5\EjerciciosPipes5\bin\Debug\EjerciciosPipes5.exe
+C:\Users\Antxon\source\repos\EjerciciosPipes5\EjerciciosPipes5\bin\Debug\EjerciciosPipes5.pdb
+C:\Users\Antxon\source\repos\EjerciciosPipes5\EjerciciosPipes5\obj\Debug\EjerciciosPipes5.csprojAssemblyReference.cache
+C:\Users\Antxon\source\repos\EjerciciosPipes5\EjerciciosPipes5\obj\Debug\EjerciciosPipes5.exe
+C:\Users\Antxon\source\repos\EjerciciosPipes5\EjerciciosPipes5\obj\Debug\EjerciciosPipes5.pdb

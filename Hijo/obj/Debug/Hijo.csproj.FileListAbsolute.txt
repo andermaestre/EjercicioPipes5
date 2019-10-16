@@ -1,0 +1,5 @@
+C:\Users\Antxon\source\repos\EjerciciosPipes5\Hijo\bin\Debug\Hijo.exe.config
+C:\Users\Antxon\source\repos\EjerciciosPipes5\Hijo\bin\Debug\Hijo.exe
+C:\Users\Antxon\source\repos\EjerciciosPipes5\Hijo\bin\Debug\Hijo.pdb
+C:\Users\Antxon\source\repos\EjerciciosPipes5\Hijo\obj\Debug\Hijo.exe
+C:\Users\Antxon\source\repos\EjerciciosPipes5\Hijo\obj\Debug\Hijo.pdb

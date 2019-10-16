@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosPipes5", "EjerciciosPipes5\EjerciciosPipes5.csproj", "{0D52AC08-1909-4EC3-9E06-F7C85FF98074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hijo", "Hijo\Hijo.csproj", "{8B7064C7-C4F3-42C7-BAF4-371EA175451D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D52AC08-1909-4EC3-9E06-F7C85FF98074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D52AC08-1909-4EC3-9E06-F7C85FF98074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D52AC08-1909-4EC3-9E06-F7C85FF98074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D52AC08-1909-4EC3-9E06-F7C85FF98074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7064C7-C4F3-42C7-BAF4-371EA175451D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7064C7-C4F3-42C7-BAF4-371EA175451D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7064C7-C4F3-42C7-BAF4-371EA175451D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7064C7-C4F3-42C7-BAF4-371EA175451D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8AF6F1-85DE-4B2D-AF30-F028FAD9E5B8}
+	EndGlobalSection
+EndGlobal
